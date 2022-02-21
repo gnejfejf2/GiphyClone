@@ -1,0 +1,6 @@
+framework module Pods_WarchaTestApp {
+  umbrella header "Pods-WarchaTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
